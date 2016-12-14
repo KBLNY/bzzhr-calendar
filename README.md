@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Content
 - [Features](#features)
-- [Installation](#installation)
+- [Testing](#testing)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [TODOS](#todos)
@@ -18,7 +18,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Responsiveness (could be improve with Bootstrap)
 - npm to manage dependencies
 
-## Installation
+## Testing
+You can either test the complied build version, or up to you to test this build version into your local server.
+
+Simply test from the compiled version:
+1. Download or clone the project
+2. Run `cd bzzhr-calendar` to navigate into the project's folder
+3. Navigate to the `build` folder 
+4. Open `index.html``
+ 
+Test on your local server:
 1. Download or clone the project
 2. Run `cd bzzhr-calendar` to navigate into the project's folder
 3. Run `npm install -g pushstate-server`
